@@ -1,4 +1,4 @@
-jquery
-bootstrap
-holder
-popper.js
+jquery/jquery
+twbs/bootstrap
+imsky/holder
+FezVrasta/popper.js
